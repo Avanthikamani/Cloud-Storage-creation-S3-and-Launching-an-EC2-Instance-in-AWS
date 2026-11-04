@@ -50,39 +50,17 @@ d)	Steps to Clean Up (Terminate the Instance)
 
 Snap Shots:
 
-<img width="1920" height="1080" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/ae77cad7-487d-4d8c-891e-e20080347590" />
+<img width="1913" height="1022" alt="Screenshot 2026-11-01 090710" src="https://github.com/user-attachments/assets/953f8a37-20fb-4770-a5d1-0fa618be2553" />
+<img width="1913" height="1035" alt="Screenshot 2026-11-01 091004" src="https://github.com/user-attachments/assets/6acfeb47-2c11-40d6-a5bf-b47db9d084c9" />
+<img width="1917" height="1032" alt="Screenshot 2026-11-01 091022" src="https://github.com/user-attachments/assets/908fd246-627d-4fd7-95c3-9d5f8794682b" />
+<img width="1917" height="1016" alt="Screenshot 2026-11-01 091524" src="https://github.com/user-attachments/assets/23d0b2eb-d2c6-4736-ae9c-035887077566" />
+<img width="1917" height="1022" alt="Screenshot 2026-11-01 094501" src="https://github.com/user-attachments/assets/dd5a04c3-b713-4c37-adcc-87daa0d515b1" />
+<img width="1917" height="278" alt="Screenshot 2026-11-01 095954" src="https://github.com/user-attachments/assets/33da1c90-91f8-4f25-b1c7-a1ebf62c90c7" />
 
-<img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/697ee171-28b3-4c6a-a585-fe7d62657acd" />
 
-<img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/004cac9f-bd36-42bd-a766-66cebe40323d" />
 
-<img width="1920" height="1080" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/21a2ef80-8faa-4976-8613-6dfcf9d80b10" />
 
-<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/650ed17f-01e7-4bcc-911e-19c7313f7786" />
 
-<img width="1920" height="1080" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/f291bc18-ac33-4e9f-8cea-11adf5da6358" />
-
-<img width="1920" height="1080" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/f33c95a7-f41e-4476-a270-15657f4740f2" />
-
-<img width="1920" height="1080" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/6387e2f0-d6ce-47a9-b15b-a094cbe12752" />
-
-<img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/c9478aba-2e91-4346-a5de-03eecb15b83e" />
-
-<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/136066e9-b412-45e3-8b54-b19b134e872d" />
-
-<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/d7d00a9f-4065-4117-92a5-0b25cc83da70" />
-
-<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/5027ac4c-d386-4cce-aed9-b994c72b1b7c" />
-
-<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/bdb18258-f1e2-48f6-a9be-d1d8aa1a65d5" />
-
-<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/d7d9f1f4-1ee3-4463-bafb-0d98bf8db34b" />
-
-<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/3a459d00-b88e-4d4b-b77e-30df07a6ad34" />
-
-<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/74f3651b-3826-49c1-9498-0975b0261eb3" />
-
-<img width="1920" height="1080" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/513a66f0-a423-437f-9aa0-5edb9a011c3b" />
 
 
 
